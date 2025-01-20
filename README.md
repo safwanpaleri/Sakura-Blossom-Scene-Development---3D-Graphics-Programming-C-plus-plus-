@@ -1,0 +1,2 @@
+# Sakura-Blossom-Scene-Development---3D-Graphics-Programming-C-plus-plus-
+This project marks my first foray into pure graphics programming using C++, where I created a 3D scene featuring a Sakura tree, water stream, and dynamic effects like falling petals and reflections utilizing C++, I focused on: ✨ Texture Mapping ✨ Light &amp; Shadow Effects ✨ Vertex &amp; Pixel Shader Manipulation ✨ Natural Simulations (Wind &amp; Water Flow)
